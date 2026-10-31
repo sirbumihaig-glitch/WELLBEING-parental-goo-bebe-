@@ -17,3 +17,6 @@ h1,h2,h3{font-weight:700}h1{font-size:53px;letter-spacing:-2px}.hero{gap:55px}.h
 
 /* Balanced program title: both names carry equal visual weight. */
 .hero .hero-title{font-size:clamp(34px,3.3vw,44px);font-weight:700;line-height:1.16;letter-spacing:-1.5px;margin:0 0 26px}.hero-title>span{display:block}.hero-title>span+span{margin-top:20px;font-size:.94em;color:#718f62}.hero-motto{font:500 19px/1.5 'DM Sans',sans-serif;letter-spacing:0;margin:0 0 20px}.hero-motto em{font:inherit;color:inherit}.hero .intro{font-size:15px;line-height:1.75}@media(max-width:650px){.hero .hero-title{font-size:36px;letter-spacing:-1.2px;margin-bottom:22px}.hero-title>span+span{margin-top:18px}.hero-motto{font-size:18px}.hero .intro{font-size:15px}}
+
+/* Consistent sage green text accents. */
+em,.benefits article>span,.back-panel li span,.journey-kicker,.steps article>span,.dark .eyebrow{color:#718f62}
